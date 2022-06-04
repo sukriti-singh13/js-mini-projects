@@ -1,0 +1,30 @@
+*{
+ box-sizing: border-box;
+ padding:0;
+ margin:0;
+ color:white;
+ font-family: sans-serif;
+}
+body{
+    background-color: rgba(147, 146, 233, 0.747);
+    text-align:center;
+
+}
+
+h1{
+    color:black;
+    margin-top:30vh;
+    margin-bottom:1rem;
+}
+#message-el,#card-el,#sum-el,#player-el{
+    font-size:18px;
+    margin-bottom: 1rem;
+}
+
+button{
+    padding:1rem;
+    background-color: black;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+
+}
